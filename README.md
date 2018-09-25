@@ -1,2 +1,2 @@
-# Zabbix
-ZABBIX COLLECTION
+# ZABBIX COLLECTION
+A great collection of Zabbix scripts and templates
